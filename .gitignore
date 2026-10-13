@@ -1,0 +1,4 @@
+.*
+!.gitignore
+!.python-version
+_pycache_/
